@@ -11,6 +11,7 @@
   modified 2 Sep 2016  by Arturo Guadalupi
   modified 8 Sep 2016 by Colby Newman
   modified 19th Jan 2021 by Mary Loftus 
+  modified 28th Jan 2021 by Tomas Grismanauskas
 
   This example code is in the public domain.
   http://www.arduino.cc/en/Tutorial/BlinkErrors
